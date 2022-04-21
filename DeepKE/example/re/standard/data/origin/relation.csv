@@ -1,0 +1,6 @@
+head_type,tail_type,relation,index
+None,None,None,0
+人物,机构,就职,1
+人物,机构,离职,2
+机构,人物,免职,3
+机构,人物,任职,4
